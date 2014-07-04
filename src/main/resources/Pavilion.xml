@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<mns:pavilion xmlns:mns="http://www.example.com/mns"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.example.com/mns Schema.xsd">
+    <gems>
+        <gem id="diamond10-15">
+            <name>diamond</name>
+            <preciousness>PRECIOUS</preciousness>
+            <origin>Kimberley, South Africa</origin>
+            <visualParameters>
+                <color>colorless</color>
+                <transparency>100</transparency>
+                <gemCutting>15</gemCutting>
+            </visualParameters>
+            <value>10.0</value>
+        </gem>
+        <gem id="quartz5-4">
+            <name>quartz</name>
+            <preciousness>SEMIPRECIOUS</preciousness>
+            <origin>Magadan, Russian Federation</origin>
+            <visualParameters>
+                <color>RED</color>
+                <transparency>80</transparency>
+                <gemCutting>4</gemCutting>
+            </visualParameters>
+            <value>5.0</value>
+        </gem>
+    </gems>
+</mns:pavilion>

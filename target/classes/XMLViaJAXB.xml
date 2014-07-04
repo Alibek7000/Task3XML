@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pavilion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="src/main/resources/Schema.xsd">
+    <gems>
+        <gem id="diamond10-15">
+            <name>diamond</name>
+            <value>10.0</value>
+            <visualParameters>
+                <color>colorless</color>
+                <gemCutting>15</gemCutting>
+                <transparency>100</transparency>
+            </visualParameters>
+        </gem>
+        <gem id="quartz5-4">
+            <name>quartz</name>
+            <value>5.0</value>
+            <visualParameters>
+                <color>RED</color>
+                <gemCutting>4</gemCutting>
+                <transparency>80</transparency>
+            </visualParameters>
+        </gem>
+    </gems>
+</pavilion>
